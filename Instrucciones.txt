@@ -1,11 +1,17 @@
 En la carpeta Screenshot deje un registro de como se debia ver un sector de la pagina
 hubo mas errores pero los tuve que borrar para que no corrompieran el programa
 
-La contraseña de el usuario administrador es:
+La contraseÃ±a de el usuario administrador es:
 kattyxdd
 master88
 
 pd: Al ingresar como administrador poseera un boton mas agregado a su barra de menu el cual podra enviarla a el /admin para crear mas usuarios
-La contraseña de el usuario normal es:
+La contraseÃ±a de el usuario normal es:
 alexis
 master999
+
+La cuenta de pythonanywhere es 
+petshop1997
+katty29/09/1997
+
+el link es pythonanywhere.petshop1997.com
