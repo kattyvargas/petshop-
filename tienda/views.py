@@ -10,7 +10,7 @@ from django.contrib import messages
 from .models import Usuario
 
 def index(request):
-    return render(request, 'shop/index.html', {})
+    return render(request, 'tienda/index.html', {})
 
 def login_view(request):
     status = ''
@@ -26,7 +26,7 @@ def login_view(request):
             status = 'ERROR'
             messages.error(request, 'Error al iniciar sesion :frowning2:')
     variables = {'status':status}
-    return render(request, 'shop/login.html', variables)
+    return render(request, 'tienda/login.html', variables)
 
 @login_required(login_url = 'login')
 def logout_view(request):
@@ -35,4 +35,4 @@ def logout_view(request):
 
 def productos(request):
     status = ''
-    return render(request, 'shop/product.html')
+    return render(request, 'tienda/product.html')
