@@ -15,3 +15,10 @@ petshop1997
 katty29/09/1997
 
 el link es http://petshop1997.pythonanywhere.com/
+
+usuario administrador pythonanywhere:
+kattyxdd
+master88
+usuario normal pythonanywhere:
+alexis 
+master999
