@@ -14,4 +14,4 @@ La cuenta de pythonanywhere es
 petshop1997
 katty29/09/1997
 
-el link es pythonanywhere.petshop1997.com
+el link es http://petshop1997.pythonanywhere.com/
